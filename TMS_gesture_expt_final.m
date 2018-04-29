@@ -1,3 +1,8 @@
+% Single-pulse TMS language & gesture experiment
+% Evan W. Carr (UCSD, 2013)
+
+% This script was adapted from code provided by Scott Freeman (https://www.scottmfreeman.com/).
+
 clear all
 
 % COLLECT SUBJECT INFO
